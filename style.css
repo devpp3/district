@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    color: black;
+    font-weight: bolder;
+}
+
+a{
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family:serif;
+}
+
+h2{
+    font-size: 150px;
+    font-weight: bolder;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+}
+
+h5{
+    font-size: 200px;
+    font-weight: bold;
+    color: black;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: blac
+}
+
+.card{
+    border: 2px solid black;
+}
